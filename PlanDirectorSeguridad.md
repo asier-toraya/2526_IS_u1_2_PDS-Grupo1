@@ -37,11 +37,11 @@
 
 [**3.4.  Establecimiento de las vulnerabilidades**](#3.4.-establecimiento-de-las-vulnerabilidades)
 
-   [**3.5. Vulnerabilidades/Debilidades**](#3.5.-vulnerabilidades/debilidades)
+[**3.5. Vulnerabilidades/Debilidades**](#3.5.-vulnerabilidades/debilidades)
 
 [**3.6. Evaluación y cálculo de riesgo**](#3.6.-evaluación-y-cálculo-de-riesgo)
 
-[**3.7. Interpretación de los resultados:**](#3.7.-interpretación-de-los-resultados:)
+[**3.7. Interpretación de los resultados**](#3.7.-interpretación-de-los-resultados:)
 
 [**4\. Objetivos basados en los activos críticos**](#4.-objetivos-basados-en-los-activos-críticos)
 
