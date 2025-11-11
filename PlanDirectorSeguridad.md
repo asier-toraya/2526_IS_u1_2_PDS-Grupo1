@@ -41,7 +41,7 @@
 
 [**3.6. Evaluación y cálculo de riesgo**](#3.6.-evaluación-y-cálculo-de-riesgo)
 
-[**3.7. Interpretación de los resultados**](#3.7.-interpretación-de-los-resultados:)
+[**3.7. Interpretación de los resultados**](#3.7.-interpretación-de-los-resultados)
 
 [**4\. Objetivos basados en los activos críticos**](#4.-objetivos-basados-en-los-activos-críticos)
 
@@ -75,7 +75,7 @@
 
 # **1. Introducción**
 
-## **1.1 Importancia de la seguridad de la información** {#1.1-importancia-de-la-seguridad-de-la-información}
+## **1.1 Importancia de la seguridad de la información**
 
 Para entender el concepto de seguridad de la información hay que tener presente que no se trata únicamente de la eliminación de amenazas básicas, si no que está también abarca los procedimientos que deben seguir los empleados y altos directivos de una empresa para asegurar la protección de datos sensibles. 
 
@@ -215,7 +215,7 @@ Una vez identificadas las vulnerabilidades y las medidas de seguridad, procedemo
 * Sistemas de copia de seguridad y almacenamiento externo  
 * Redes internas y conexión a Internet
 
-### **3.7. Interpretación de los resultados:**
+### **3.7. Interpretación de los resultados**
 
 * Los **riesgos más altos** se encuentran en los **datos personales, servidores, Red corporativa / Wi-Fi** y la **página web / tienda online**, debido a su exposición pública.  
 * Los **riesgos medios** se relacionan con los **equipos de trabajo** y **dispositivos móviles** donde hay medidas básicas pero no suficientes.  
